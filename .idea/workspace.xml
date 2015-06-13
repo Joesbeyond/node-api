@@ -44,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="console.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="console.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/console/console.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30201343" vertical-offset="0" max-vertical-offset="596">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
               <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smalloc.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/smalloc/smalloc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24161074" vertical-offset="0" max-vertical-offset="596">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -62,6 +72,7 @@
         <option value="$PROJECT_DIR$/cluster/cluster.js" />
         <option value="$PROJECT_DIR$/crypto/crypto.js" />
         <option value="$PROJECT_DIR$/console/console.js" />
+        <option value="$PROJECT_DIR$/smalloc/smalloc.js" />
       </list>
     </option>
   </component>
@@ -110,20 +121,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="NodeAPI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeAPI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeAPI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="console" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -246,8 +243,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/console/console.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30201343" vertical-offset="0" max-vertical-offset="596">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
           <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smalloc/smalloc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24161074" vertical-offset="0" max-vertical-offset="596">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding />
         </state>
       </provider>
